@@ -142,7 +142,7 @@
             "last_commit": "2026-07-28T12:06:26Z",
             "owner": "reisxd",
             "repo": "TizenTube",
-            "stars": 1948
+            "stars": 1954
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-05-18T14:06:16Z",
             "owner": "reisxd",
             "repo": "TizenBrew",
-            "stars": 1565
+            "stars": 1567
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-02-17T18:15:42Z",
             "owner": "merdok",
             "repo": "homebridge-webos-tv",
-            "stars": 701
+            "stars": 702
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2025-09-30T17:42:03Z",
             "owner": "supersaiyanmode",
             "repo": "PyWebOSTV",
-            "stars": 314
+            "stars": 313
           }
         },
         {
@@ -435,7 +435,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-26T05:51:20Z",
+            "last_commit": "2026-08-16T16:27:13Z",
             "owner": "Hybirdss",
             "repo": "smartest-tv",
             "stars": 40
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:34:54.402Z",
+    "last_updated": "2026-08-16T16:35:16.425Z",
     "original_repository": "vitalets/awesome-smart-tv",
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
     "enhanced_repository": "enhansome/enhansome-smart-tv",
