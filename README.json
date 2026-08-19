@@ -2,340 +2,347 @@
   "items": [
     {
       "description": "Below are the most popular platforms for Smart TV. The full list is here.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "samsungctl",
+                  "description": "Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 17731048,
+                    "language": "Python",
+                    "last_commit": "2024-07-10T08:49:46Z",
+                    "owner": "Ape",
+                    "repo": "samsungctl",
+                    "stars": 741
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "homebridge-samsung-tizen",
+                  "description": "A plugin for Homebridge that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127148270,
+                    "language": "JavaScript",
+                    "last_commit": "2026-04-06T06:46:24Z",
+                    "owner": "tavicu",
+                    "repo": "homebridge-samsung-tizen",
+                    "stars": 677
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "samsung-tv-control",
+                  "description": "Library for remote control Samsung TV in your Node.js",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159747321,
+                    "language": "TypeScript",
+                    "last_commit": "2023-12-23T00:35:07Z",
+                    "owner": "Toxblh",
+                    "repo": "samsung-tv-control",
+                    "stars": 198
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "samsung-tv-remote",
+                  "description": "Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89575385,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-05T22:35:07Z",
+                    "owner": "Badisi",
+                    "repo": "samsung-tv-remote",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "homebridge-samsungtv2016",
+                  "description": "A plugin for Homebridge that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71671743,
+                    "language": "JavaScript",
+                    "last_commit": "2017-01-14T17:18:44Z",
+                    "owner": "kyleaa",
+                    "repo": "homebridge-samsungtv2016",
+                    "stars": 56
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "samsung-messagebox",
+                  "description": "Python script to show notifications on Samsung TVs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11395232,
+                    "language": "Python",
+                    "last_commit": "2014-06-05T14:00:50Z",
+                    "owner": "shantanugoel",
+                    "repo": "samsung-messagebox",
+                    "stars": 56
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "samsung-remote-models-2014-and-newer",
+                  "description": "Encrypted communication with the internal web service of Samsung TV models 2014+.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121282544,
+                    "language": "JavaScript",
+                    "last_commit": "2022-06-25T03:22:53Z",
+                    "owner": "tdudek",
+                    "repo": "samsung-remote-models-2014-and-newer",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SmartCrypto",
+                  "description": "SmartView2 encrypted handshake API implementation in C/Python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 145323997,
+                    "language": "C",
+                    "last_commit": "2022-08-18T08:19:13Z",
+                    "owner": "sectroyer",
+                    "repo": "SmartCrypto",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Third-party remote control libraries"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[TizenTube] (https://github.com/reisxd/TizenTube",
+                  "description": ") - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 666132902,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-28T12:06:26Z",
+                    "owner": "reisxd",
+                    "repo": "TizenTube",
+                    "stars": 1970
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[TizenBrew] (https://github.com/reisxd/TizenBrew",
+                  "description": ") - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 752398184,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-18T14:06:16Z",
+                    "owner": "reisxd",
+                    "repo": "TizenBrew",
+                    "stars": 1570
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beam-TV",
+                  "description": "Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1311854758,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-12T18:13:59Z",
+                    "owner": "TAGISWILD",
+                    "repo": "beam-tv",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tizen Studio development references",
+                  "description": "Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 197706248,
+                    "language": null,
+                    "last_commit": "2019-10-09T21:17:38Z",
+                    "owner": "claromes",
+                    "repo": "tizenstudio",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samsung Tizen"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "homebridge-webos-tv",
+                  "description": "A plugin for Homebridge which allows you to control your webOS TV.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 73726309,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-17T18:15:42Z",
+                    "owner": "merdok",
+                    "repo": "homebridge-webos-tv",
+                    "stars": 703
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LGWebOSRemote",
+                  "description": "Command line tool for webOS remote control of LG TVs (Python).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91228157,
+                    "language": "Python",
+                    "last_commit": "2026-06-04T13:46:35Z",
+                    "owner": "klattimer",
+                    "repo": "LGWebOSRemote",
+                    "stars": 648
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lgtv2",
+                  "description": "Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46223050,
+                    "language": "JavaScript",
+                    "last_commit": "2022-02-04T13:34:20Z",
+                    "owner": "hobbyquaker",
+                    "repo": "lgtv2",
+                    "stars": 346
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyWebOSTV",
+                  "description": "A generic & entensible WebOS 3.0 Client Library (Python2, Python3).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112699208,
+                    "language": "Python",
+                    "last_commit": "2025-09-30T17:42:03Z",
+                    "owner": "supersaiyanmode",
+                    "repo": "PyWebOSTV",
+                    "stars": 313
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lgtv2mqtt",
+                  "description": "Interface between LG WebOS Smart TVs and MQTT (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47511828,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-17T17:59:20Z",
+                    "owner": "hobbyquaker",
+                    "repo": "lgtv2mqtt",
+                    "stars": 109
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pylgtv",
+                  "description": "Library to control webOS based LG Tv devices (Python).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56430425,
+                    "language": "Python",
+                    "last_commit": "2019-11-07T17:52:39Z",
+                    "owner": "TheRealLink",
+                    "repo": "pylgtv",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "node-red-contrib-lgtv",
+                  "description": "Module for Node-RED allowing remote control of LG webOS Smart TVs (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 86615407,
+                    "language": "JavaScript",
+                    "last_commit": "2023-10-11T08:48:09Z",
+                    "owner": "hobbyquaker",
+                    "repo": "node-red-contrib-lgtv",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "node-webos",
+                  "description": "Node.js module to discover and control webOS TVs (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49346583,
+                    "language": "JavaScript",
+                    "last_commit": "2017-12-09T21:27:14Z",
+                    "owner": "WeeJeWel",
+                    "repo": "node-webos",
+                    "stars": 32
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Third-party remote control libraries"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LG webOS"
+        }
+      ],
       "title": "Platforms"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Samsung Tizen"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "samsungctl",
-          "description": "Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-07-10T08:49:46Z",
-            "owner": "Ape",
-            "repo": "samsungctl",
-            "stars": 741
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "homebridge-samsung-tizen",
-          "description": "A plugin for Homebridge that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-06T06:46:24Z",
-            "owner": "tavicu",
-            "repo": "homebridge-samsung-tizen",
-            "stars": 678
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "samsung-tv-control",
-          "description": "Library for remote control Samsung TV in your Node.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-23T00:35:07Z",
-            "owner": "Toxblh",
-            "repo": "samsung-tv-control",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "samsung-tv-remote",
-          "description": "Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T22:35:07Z",
-            "owner": "Badisi",
-            "repo": "samsung-tv-remote",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "homebridge-samsungtv2016",
-          "description": "A plugin for Homebridge that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-01-14T17:18:44Z",
-            "owner": "kyleaa",
-            "repo": "homebridge-samsungtv2016",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "samsung-messagebox",
-          "description": "Python script to show notifications on Samsung TVs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-06-05T14:00:50Z",
-            "owner": "shantanugoel",
-            "repo": "samsung-messagebox",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "samsung-remote-models-2014-and-newer",
-          "description": "Encrypted communication with the internal web service of Samsung TV models 2014+.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-06-25T03:22:53Z",
-            "owner": "tdudek",
-            "repo": "samsung-remote-models-2014-and-newer",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartCrypto",
-          "description": "SmartView2 encrypted handshake API implementation in C/Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-08-18T08:19:13Z",
-            "owner": "sectroyer",
-            "repo": "SmartCrypto",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Third-party remote control libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[TizenTube] (https://github.com/reisxd/TizenTube",
-          "description": ") - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T12:06:26Z",
-            "owner": "reisxd",
-            "repo": "TizenTube",
-            "stars": 1967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[TizenBrew] (https://github.com/reisxd/TizenBrew",
-          "description": ") - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-18T14:06:16Z",
-            "owner": "reisxd",
-            "repo": "TizenBrew",
-            "stars": 1569
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Beam-TV",
-          "description": "Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T18:13:59Z",
-            "owner": "TAGISWILD",
-            "repo": "beam-tv",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tizen Studio development references",
-          "description": "Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2019-10-09T21:17:38Z",
-            "owner": "claromes",
-            "repo": "tizenstudio",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "LG webOS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "homebridge-webos-tv",
-          "description": "A plugin for Homebridge which allows you to control your webOS TV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-17T18:15:42Z",
-            "owner": "merdok",
-            "repo": "homebridge-webos-tv",
-            "stars": 703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LGWebOSRemote",
-          "description": "Command line tool for webOS remote control of LG TVs (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-04T13:46:35Z",
-            "owner": "klattimer",
-            "repo": "LGWebOSRemote",
-            "stars": 648
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lgtv2",
-          "description": "Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-04T13:34:20Z",
-            "owner": "hobbyquaker",
-            "repo": "lgtv2",
-            "stars": 346
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyWebOSTV",
-          "description": "A generic & entensible WebOS 3.0 Client Library (Python2, Python3).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-30T17:42:03Z",
-            "owner": "supersaiyanmode",
-            "repo": "PyWebOSTV",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lgtv2mqtt",
-          "description": "Interface between LG WebOS Smart TVs and MQTT (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-17T17:59:20Z",
-            "owner": "hobbyquaker",
-            "repo": "lgtv2mqtt",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pylgtv",
-          "description": "Library to control webOS based LG Tv devices (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-11-07T17:52:39Z",
-            "owner": "TheRealLink",
-            "repo": "pylgtv",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-red-contrib-lgtv",
-          "description": "Module for Node-RED allowing remote control of LG webOS Smart TVs (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-11T08:48:09Z",
-            "owner": "hobbyquaker",
-            "repo": "node-red-contrib-lgtv",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-webos",
-          "description": "Node.js module to discover and control webOS TVs (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-12-09T21:27:14Z",
-            "owner": "WeeJeWel",
-            "repo": "node-webos",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ares-webos-sdk",
-          "description": "webOS CLI as separate NPM module (JavaScript).",
-          "children": []
-        }
-      ],
-      "title": "Third-party remote control libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Android TV"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Apple tvOS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Google Chromecast"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -344,6 +351,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100723033,
             "language": "JavaScript",
             "last_commit": "2022-03-30T15:33:14Z",
             "owner": "raphamorim",
@@ -358,6 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15069230,
             "language": "JavaScript",
             "last_commit": "2019-01-31T13:39:20Z",
             "owner": "immosmart",
@@ -372,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189968399,
             "language": "JavaScript",
             "last_commit": "2025-09-07T10:20:25Z",
             "owner": "interfaced",
@@ -386,6 +396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31493832,
             "language": "JavaScript",
             "last_commit": "2017-05-29T20:23:02Z",
             "owner": "mautilus",
@@ -400,6 +411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137637708,
             "language": "JavaScript",
             "last_commit": "2026-07-22T08:35:48Z",
             "owner": "pureqml",
@@ -411,7 +423,7 @@
       "title": "Cross-platform frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -420,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226871398,
             "language": "Python",
             "last_commit": "2026-08-07T18:15:58Z",
             "owner": "IlyaP358",
@@ -434,6 +447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199818138,
             "language": "Python",
             "last_commit": "2026-08-16T16:27:13Z",
             "owner": "Hybirdss",
@@ -445,7 +459,7 @@
       "title": "Cross-platform tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -454,6 +468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23520594,
             "language": "JavaScript",
             "last_commit": "2024-05-23T14:02:58Z",
             "owner": "luke-chang",
@@ -468,6 +483,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 169129306,
             "language": "JavaScript",
             "last_commit": "2023-05-05T15:03:49Z",
             "owner": "NoriginMedia",
@@ -482,6 +498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111278763,
             "language": "JavaScript",
             "last_commit": "2019-08-19T17:33:43Z",
             "owner": "dead",
@@ -496,6 +513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107998232,
             "language": "JavaScript",
             "last_commit": "2022-02-10T11:51:15Z",
             "owner": "dead",
@@ -510,6 +528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115226669,
             "language": "JavaScript",
             "last_commit": "2018-09-05T10:40:30Z",
             "owner": "stuart-williams",
@@ -521,7 +540,7 @@
       "title": "Navigation libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -530,6 +549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79960770,
             "language": null,
             "last_commit": "2022-01-29T14:38:44Z",
             "owner": "linuxenko",
@@ -544,6 +564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284286977,
             "language": "Dockerfile",
             "last_commit": "2025-06-18T10:52:50Z",
             "owner": "vitalets",
@@ -553,21 +574,12 @@
         }
       ],
       "title": "Misc"
-    },
-    {
-      "description": "Feel free to share your experience and contribute useful extension resources by creating new issue or pull request. Please read the contribution guidelines first. Thanks!",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:41:23.382Z",
+    "last_updated": "2026-08-19T12:55:29.222Z",
     "original_repository": "vitalets/awesome-smart-tv",
+    "original_repository_id": 70810952,
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
     "enhanced_repository": "enhansome/enhansome-smart-tv",
     "enhanced_repository_description": null,
