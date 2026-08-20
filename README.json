@@ -146,7 +146,7 @@
                     "last_commit": "2026-07-28T12:06:26Z",
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 1971
+                    "stars": 1976
                   }
                 },
                 {
@@ -176,7 +176,7 @@
                     "last_commit": "2026-08-12T18:13:59Z",
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
-                    "stars": 10
+                    "stars": 11
                   }
                 },
                 {
@@ -235,7 +235,7 @@
                     "last_commit": "2026-06-04T13:46:35Z",
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 648
+                    "stars": 649
                   }
                 },
                 {
@@ -434,10 +434,10 @@
             "archived": false,
             "id": 1226871398,
             "language": "Python",
-            "last_commit": "2026-08-07T18:15:58Z",
+            "last_commit": "2026-08-19T18:40:01Z",
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 330
+            "stars": 331
           }
         },
         {
@@ -577,7 +577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:39:58.776Z",
+    "last_updated": "2026-08-20T16:44:17.623Z",
     "original_repository": "vitalets/awesome-smart-tv",
     "original_repository_id": 70810952,
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
