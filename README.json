@@ -146,7 +146,7 @@
                     "last_commit": "2026-07-28T12:06:26Z",
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 1976
+                    "stars": 1986
                   }
                 },
                 {
@@ -161,7 +161,7 @@
                     "last_commit": "2026-05-18T14:06:16Z",
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1570
+                    "stars": 1571
                   }
                 },
                 {
@@ -173,7 +173,7 @@
                     "archived": false,
                     "id": 1311854758,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-12T18:13:59Z",
+                    "last_commit": "2026-08-21T14:08:03Z",
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
                     "stars": 11
@@ -220,7 +220,7 @@
                     "last_commit": "2026-02-17T18:15:42Z",
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 703
+                    "stars": 702
                   }
                 },
                 {
@@ -247,7 +247,7 @@
                     "archived": false,
                     "id": 46223050,
                     "language": "JavaScript",
-                    "last_commit": "2022-02-04T13:34:20Z",
+                    "last_commit": "2026-08-21T13:19:55Z",
                     "owner": "hobbyquaker",
                     "repo": "lgtv2",
                     "stars": 346
@@ -277,7 +277,7 @@
                     "archived": false,
                     "id": 47511828,
                     "language": "JavaScript",
-                    "last_commit": "2023-01-17T17:59:20Z",
+                    "last_commit": "2026-08-21T14:48:06Z",
                     "owner": "hobbyquaker",
                     "repo": "lgtv2mqtt",
                     "stars": 109
@@ -434,7 +434,7 @@
             "archived": false,
             "id": 1226871398,
             "language": "Python",
-            "last_commit": "2026-08-19T18:40:01Z",
+            "last_commit": "2026-08-21T16:41:56Z",
             "owner": "IlyaP358",
             "repo": "fluxcast",
             "stars": 331
@@ -577,7 +577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:44:17.623Z",
+    "last_updated": "2026-08-21T16:44:22.747Z",
     "original_repository": "vitalets/awesome-smart-tv",
     "original_repository_id": 70810952,
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
