@@ -9,6 +9,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Wits",
+                  "description": "A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162541256,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-12T02:09:02Z",
+                    "owner": "Samsung",
+                    "repo": "Wits",
+                    "stars": 123
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Official resources"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "samsungctl",
                   "description": "Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).",
                   "children": [],
@@ -146,7 +168,7 @@
                     "last_commit": "2026-08-22T12:29:20Z",
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2002
+                    "stars": 2003
                   }
                 },
                 {
@@ -161,7 +183,7 @@
                     "last_commit": "2026-05-18T14:06:16Z",
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1577
+                    "stars": 1579
                   }
                 },
                 {
@@ -206,6 +228,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Connect SDK",
+                  "description": "Open source framework developed by LG that connects your mobile apps with multiple media device platforms. Currently supports 8 platforms. But seems abandoned.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18651796,
+                    "language": "Java",
+                    "last_commit": "2024-03-19T03:49:54Z",
+                    "owner": "ConnectSDK",
+                    "repo": "Connect-SDK-Android",
+                    "stars": 328
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Official resources"
+            },
             {
               "children": [
                 {
@@ -434,7 +478,7 @@
             "archived": false,
             "id": 1226871398,
             "language": "Python",
-            "last_commit": "2026-08-22T17:16:26Z",
+            "last_commit": "2026-08-24T09:58:39Z",
             "owner": "IlyaP358",
             "repo": "fluxcast",
             "stars": 334
@@ -577,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:35:24.484Z",
+    "last_updated": "2026-08-24T14:11:15.385Z",
     "original_repository": "vitalets/awesome-smart-tv",
     "original_repository_id": 70810952,
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
