@@ -168,7 +168,7 @@
                     "last_commit": "2026-08-22T12:29:20Z",
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2003
+                    "stars": 2005
                   }
                 },
                 {
@@ -478,7 +478,7 @@
             "archived": false,
             "id": 1226871398,
             "language": "Python",
-            "last_commit": "2026-08-24T09:58:39Z",
+            "last_commit": "2026-08-24T16:33:37Z",
             "owner": "IlyaP358",
             "repo": "fluxcast",
             "stars": 334
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:15.385Z",
+    "last_updated": "2026-08-24T16:48:56.439Z",
     "original_repository": "vitalets/awesome-smart-tv",
     "original_repository_id": 70810952,
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
