@@ -168,7 +168,7 @@
                     "last_commit": "2026-08-22T12:29:20Z",
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2017
+                    "stars": 2021
                   }
                 },
                 {
@@ -183,7 +183,7 @@
                     "last_commit": "2026-05-18T14:06:16Z",
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1586
+                    "stars": 1588
                   }
                 },
                 {
@@ -481,7 +481,7 @@
             "last_commit": "2026-08-26T18:22:32Z",
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 339
+            "stars": 340
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2025-06-18T10:52:50Z",
             "owner": "vitalets",
             "repo": "docker-tizen-webos-sdk",
-            "stars": 132
+            "stars": 133
           }
         }
       ],
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:27.005Z",
+    "last_updated": "2026-08-28T00:50:06.858Z",
     "original_repository_info": {
       "archived": false,
       "id": 70810952,
