@@ -20,7 +20,8 @@
                     "owner": "Samsung",
                     "repo": "Wits",
                     "stars": 123
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "Ape",
                     "repo": "samsungctl",
                     "stars": 741
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 678
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "Toxblh",
                     "repo": "samsung-tv-control",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "Badisi",
                     "repo": "samsung-tv-remote",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "kyleaa",
                     "repo": "homebridge-samsungtv2016",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "shantanugoel",
                     "repo": "samsung-messagebox",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "tdudek",
                     "repo": "samsung-remote-models-2014-and-newer",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "sectroyer",
                     "repo": "SmartCrypto",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 }
               ],
               "description": null,
@@ -168,8 +177,9 @@
                     "last_commit": "2026-08-22T12:29:20Z",
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2021
-                  }
+                    "stars": 2023
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "reisxd",
                     "repo": "TizenBrew",
                     "stars": 1588
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "claromes",
                     "repo": "tizenstudio",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 }
               ],
               "description": null,
@@ -243,7 +256,8 @@
                     "owner": "ConnectSDK",
                     "repo": "Connect-SDK-Android",
                     "stars": 328
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 }
               ],
               "description": null,
@@ -265,7 +279,8 @@
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
                     "stars": 702
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
                     "stars": 650
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "hobbyquaker",
                     "repo": "lgtv2",
                     "stars": 346
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "supersaiyanmode",
                     "repo": "PyWebOSTV",
                     "stars": 314
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -321,11 +339,12 @@
                     "archived": false,
                     "id": 47511828,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T10:07:29Z",
+                    "last_commit": "2026-08-28T20:37:08Z",
                     "owner": "hobbyquaker",
                     "repo": "lgtv2mqtt",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -340,7 +359,8 @@
                     "owner": "TheRealLink",
                     "repo": "pylgtv",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -355,7 +375,8 @@
                     "owner": "hobbyquaker",
                     "repo": "node-red-contrib-lgtv",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 },
                 {
                   "node_type": "item",
@@ -370,7 +391,8 @@
                     "owner": "WeeJeWel",
                     "repo": "node-webos",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:42.604Z"
                 }
               ],
               "description": null,
@@ -401,7 +423,8 @@
             "owner": "raphamorim",
             "repo": "react-tv",
             "stars": 2032
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -416,7 +439,8 @@
             "owner": "immosmart",
             "repo": "smartbox",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -431,7 +455,8 @@
             "owner": "interfaced",
             "repo": "zombiebox",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -446,7 +471,8 @@
             "owner": "mautilus",
             "repo": "sdk",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -461,7 +487,8 @@
             "owner": "pureqml",
             "repo": "qmlcore-tv",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         }
       ],
       "title": "Cross-platform frameworks"
@@ -481,8 +508,9 @@
             "last_commit": "2026-08-26T18:22:32Z",
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 340
-          }
+            "stars": 341
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -496,8 +524,9 @@
             "last_commit": "2026-08-16T16:27:13Z",
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 43
-          }
+            "stars": 44
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         }
       ],
       "title": "Cross-platform tools"
@@ -518,7 +547,8 @@
             "owner": "luke-chang",
             "repo": "js-spatial-navigation",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -533,7 +563,8 @@
             "owner": "NoriginMedia",
             "repo": "react-spatial-navigation",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -548,7 +579,8 @@
             "owner": "dead",
             "repo": "react-key-navigation",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -563,7 +595,8 @@
             "owner": "dead",
             "repo": "react-js-spatial-navigation",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -578,7 +611,8 @@
             "owner": "stuart-williams",
             "repo": "lrud",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         }
       ],
       "title": "Navigation libraries"
@@ -599,7 +633,8 @@
             "owner": "linuxenko",
             "repo": "awesome-smarttv",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         },
         {
           "node_type": "item",
@@ -614,14 +649,15 @@
             "owner": "vitalets",
             "repo": "docker-tizen-webos-sdk",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:06.858Z",
+    "last_updated": "2026-08-29T00:31:42.604Z",
     "original_repository_info": {
       "archived": false,
       "id": 70810952,
@@ -629,7 +665,7 @@
       "last_commit": "2026-07-26T17:56:30Z",
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1405
+      "stars": 1406
     },
     "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
     "enhanced_repository": "enhansome/enhansome-smart-tv",
