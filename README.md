@@ -52,8 +52,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,023 | 🐛 96 | 🌐 JavaScript | 📅 2026-08-22) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,588 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,025 | 🐛 96 | 🌐 JavaScript | 📅 2026-08-22) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,589 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 12 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) - How to get screen size, matrix type, year of development, series and other parameters from Samsung TV model name.
