@@ -42,18 +42,18 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 #### Third-party remote control libraries
 
 * [samsungctl](https://github.com/Ape/samsungctl) ⚠️ Archived - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
-* [homebridge-samsung-tizen](https://github.com/tavicu/homebridge-samsung-tizen) ⭐ 678 | 🐛 91 | 🌐 JavaScript | 📅 2026-04-06 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,467 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30 that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
+* [homebridge-samsung-tizen](https://github.com/tavicu/homebridge-samsung-tizen) ⭐ 678 | 🐛 91 | 🌐 JavaScript | 📅 2026-04-06 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,468 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30 that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
 * [samsung-tv-control](https://github.com/Toxblh/samsung-tv-control) ⭐ 198 | 🐛 21 | 🌐 TypeScript | 📅 2023-12-23 - Library for remote control Samsung TV in your Node.js
 * [samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
-* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-14 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,467 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30 that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
+* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-14 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,468 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30 that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
 * [samsung-messagebox](https://github.com/shantanugoel/samsung-messagebox) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2014-06-05 - Python script to show notifications on Samsung TVs.
 * [samsung-remote-models-2014-and-newer](https://github.com/tdudek/samsung-remote-models-2014-and-newer) ⭐ 48 | 🐛 27 | 🌐 JavaScript | 📅 2022-06-25 - Encrypted communication with the internal web service of Samsung TV models 2014+.
 * [SmartCrypto](https://github.com/sectroyer/SmartCrypto) ⭐ 12 | 🐛 4 | 🌐 C | 📅 2022-08-18 - SmartView2 encrypted handshake API implementation in C/Python.
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,038 | 🐛 97 | 🌐 JavaScript | 📅 2026-08-30) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,593 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,041 | 🐛 97 | 🌐 JavaScript | 📅 2026-08-30) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,594 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 12 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) - How to get screen size, matrix type, year of development, series and other parameters from Samsung TV model name.
@@ -69,7 +69,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Third-party remote control libraries
 
-* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 702 | 🐛 36 | 🌐 JavaScript | 📅 2026-02-17 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,467 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30 which allows you to control your webOS TV.
+* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 702 | 🐛 36 | 🌐 JavaScript | 📅 2026-02-17 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,468 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30 which allows you to control your webOS TV.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) ⭐ 650 | 🐛 26 | 🌐 Python | 📅 2026-06-04 - Command line tool for webOS remote control of LG TVs (Python).
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 347 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-21 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 * [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 313 | 🐛 20 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
@@ -133,8 +133,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Cross-platform tools
 
-* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 342 | 🐛 25 | 🌐 Python | 📅 2026-08-26 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
-* [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
+* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 343 | 🐛 24 | 🌐 Python | 📅 2026-08-30 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
+* [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## Navigation libraries
 
@@ -152,7 +152,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 ## Misc
 
 * [awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) ⭐ 160 | 🐛 0 | 📅 2022-01-29 - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
-* [docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk) ⭐ 133 | 🐛 3 | 🌐 Dockerfile | 📅 2025-06-18 - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
+* [docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk) ⭐ 134 | 🐛 3 | 🌐 Dockerfile | 📅 2025-06-18 - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
 * [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
 
 ## Community
@@ -171,4 +171,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
