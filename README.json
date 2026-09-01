@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-30T10:25:54Z",
-                    "open_issues": 97,
+                    "open_issues": 102,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2041,
+                    "stars": 2047,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 15,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1594,
+                    "stars": 1597,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -750,8 +750,8 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T21:47:29Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-01T14:53:00Z",
+            "open_issues": 23,
             "owner": "IlyaP358",
             "repo": "fluxcast",
             "stars": 343,
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:25:40.677Z",
+    "last_updated": "2026-09-01T19:21:00.297Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1007,7 +1007,7 @@
       "open_issues": 3,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1407,
+      "stars": 1408,
       "topics": [
         "android-tv",
         "apple-tv",
