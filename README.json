@@ -232,11 +232,11 @@
                     "id": 666132902,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T10:25:54Z",
-                    "open_issues": 102,
+                    "last_commit": "2026-09-02T16:53:53Z",
+                    "open_issues": 101,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2047,
+                    "stars": 2054,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 15,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1597,
+                    "stars": 1598,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -751,10 +751,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-01T14:53:00Z",
-            "open_issues": 23,
+            "open_issues": 29,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "cast",
               "gnome",
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:21:00.297Z",
+    "last_updated": "2026-09-02T19:20:54.348Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
