@@ -232,11 +232,11 @@
                     "id": 666132902,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-02T16:53:53Z",
-                    "open_issues": 101,
+                    "last_commit": "2026-09-04T11:46:19Z",
+                    "open_issues": 96,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2055,
+                    "stars": 2061,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 15,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1600,
+                    "stars": 1601,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -473,7 +473,7 @@
                     "open_issues": 20,
                     "owner": "supersaiyanmode",
                     "repo": "PyWebOSTV",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": [
                       "lg",
                       "remote-control",
@@ -750,7 +750,7 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T20:31:37Z",
+            "last_commit": "2026-09-04T18:01:59Z",
             "open_issues": 25,
             "owner": "IlyaP358",
             "repo": "fluxcast",
@@ -887,31 +887,6 @@
         },
         {
           "node_type": "item",
-          "title": "react-js-spatial-navigation",
-          "description": "A wrapper of js-spatial-navigation to react components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A wrapper of js-spatial-navigation to react components",
-            "homepage": null,
-            "id": 107998232,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2022-02-10T11:51:15Z",
-            "open_issues": 11,
-            "owner": "dead",
-            "repo": "react-js-spatial-navigation",
-            "stars": 34,
-            "topics": [
-              "react",
-              "reactjs",
-              "spatial-navigation"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:42.604Z"
-        },
-        {
-          "node_type": "item",
           "title": "lrud",
           "description": "Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.",
           "children": [],
@@ -935,6 +910,31 @@
               "smarttv",
               "tv",
               "tv-apps"
+            ]
+          },
+          "first_seen": "2026-08-29T00:31:42.604Z"
+        },
+        {
+          "node_type": "item",
+          "title": "react-js-spatial-navigation",
+          "description": "A wrapper of js-spatial-navigation to react components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A wrapper of js-spatial-navigation to react components",
+            "homepage": null,
+            "id": 107998232,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2022-02-10T11:51:15Z",
+            "open_issues": 11,
+            "owner": "dead",
+            "repo": "react-js-spatial-navigation",
+            "stars": 33,
+            "topics": [
+              "react",
+              "reactjs",
+              "spatial-navigation"
             ]
           },
           "first_seen": "2026-08-29T00:31:42.604Z"
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:15:15.699Z",
+    "last_updated": "2026-09-04T18:57:13.961Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",

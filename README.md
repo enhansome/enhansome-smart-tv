@@ -52,8 +52,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,055 | 🐛 101 | 🌐 JavaScript | 📅 2026-09-02) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,600 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,061 | 🐛 96 | 🌐 JavaScript | 📅 2026-09-04) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,601 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 12 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) - How to get screen size, matrix type, year of development, series and other parameters from Samsung TV model name.
@@ -72,7 +72,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 702 | 🐛 36 | 🌐 JavaScript | 📅 2026-02-17 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,474 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 which allows you to control your webOS TV.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) ⭐ 650 | 🐛 26 | 🌐 Python | 📅 2026-06-04 - Command line tool for webOS remote control of LG TVs (Python).
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 347 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-21 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
-* [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 313 | 🐛 20 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
+* [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 314 | 🐛 20 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) ⭐ 112 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-28 - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 * [pylgtv](https://github.com/TheRealLink/pylgtv) ⚠️ Archived - Library to control webOS based LG Tv devices (Python).
 * [node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 60 | 🐛 48 | 🌐 JavaScript | 📅 2023-10-11 - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript).
@@ -133,7 +133,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Cross-platform tools
 
-* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 344 | 🐛 25 | 🌐 Python | 📅 2026-09-02 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
+* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 344 | 🐛 25 | 🌐 Python | 📅 2026-09-04 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
 * [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## Navigation libraries
@@ -141,8 +141,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation) ⭐ 429 | 🐛 39 | 🌐 JavaScript | 📅 2024-05-23 - A javascript-based implementation of Spatial Navigation.
 * [react-spatial-navigation](https://github.com/NoriginMedia/react-spatial-navigation) ⚠️ Archived - HOC-based Spatial Navigation (key navigation) solution for React.
 * [react-key-navigation](https://github.com/dead/react-key-navigation) ⭐ 76 | 🐛 8 | 🌐 JavaScript | 📅 2019-08-19 - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
-* [react-js-spatial-navigation](https://github.com/dead/react-js-spatial-navigation) ⭐ 34 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-10 - A wrapper of js-spatial-navigation to react components.
 * [lrud](https://github.com/stuart-williams/lrud) ⭐ 33 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-05 - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
+* [react-js-spatial-navigation](https://github.com/dead/react-js-spatial-navigation) ⭐ 33 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-10 - A wrapper of js-spatial-navigation to react components.
 
 ## Testing
 
@@ -171,4 +171,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
