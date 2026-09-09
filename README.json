@@ -68,7 +68,7 @@
                     "id": 127148270,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T19:20:39Z",
+                    "last_commit": "2026-09-09T11:14:08Z",
                     "open_issues": 85,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-07T16:48:33Z",
-                    "open_issues": 92,
+                    "open_issues": 93,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2081,
+                    "stars": 2085,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -261,10 +261,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-18T14:06:16Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1602,
+                    "stars": 1603,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -416,7 +416,7 @@
                     "open_issues": 26,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 650,
+                    "stars": 652,
                     "topics": [
                       "lg",
                       "python",
@@ -613,7 +613,7 @@
             "open_issues": 31,
             "owner": "raphamorim",
             "repo": "react-tv",
-            "stars": 2034,
+            "stars": 2033,
             "topics": [
               "lg-webos",
               "orsay",
@@ -750,11 +750,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T17:31:54Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-09T17:29:25Z",
+            "open_issues": 23,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "cast",
               "gnome",
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:23:36.606Z",
+    "last_updated": "2026-09-09T19:13:31.463Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1007,7 +1007,7 @@
       "open_issues": 3,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1410,
+      "stars": 1412,
       "topics": [
         "android-tv",
         "apple-tv",
