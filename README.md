@@ -52,8 +52,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,104 | 🐛 93 | 🌐 JavaScript | 📅 2026-09-11) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,605 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,112 | 🐛 93 | 🌐 JavaScript | 📅 2026-09-11) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,602 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 14 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) - How to get screen size, matrix type, year of development, series and other parameters from Samsung TV model name.
@@ -69,9 +69,9 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Third-party remote control libraries
 
-* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 702 | 🐛 36 | 🌐 JavaScript | 📅 2026-02-17 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,485 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-30 which allows you to control your webOS TV.
+* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 702 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-11 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,485 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-30 which allows you to control your webOS TV.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) ⭐ 652 | 🐛 26 | 🌐 Python | 📅 2026-06-04 - Command line tool for webOS remote control of LG TVs (Python).
-* [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 349 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
+* [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 350 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 * [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 314 | 🐛 20 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) ⭐ 114 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-10 - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 * [pylgtv](https://github.com/TheRealLink/pylgtv) ⚠️ Archived - Library to control webOS based LG Tv devices (Python).
@@ -133,7 +133,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Cross-platform tools
 
-* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 354 | 🐛 25 | 🌐 Python | 📅 2026-09-10 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
+* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 354 | 🐛 33 | 🌐 Python | 📅 2026-09-11 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
 * [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-08-16 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## Navigation libraries
@@ -171,4 +171,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
