@@ -236,7 +236,7 @@
                     "open_issues": 105,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2130,
+                    "stars": 2133,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -389,7 +389,7 @@
                     "open_issues": 5,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 703,
+                    "stars": 704,
                     "topics": [
                       "homebridge",
                       "homekit",
@@ -416,7 +416,7 @@
                     "open_issues": 26,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 654,
+                    "stars": 655,
                     "topics": [
                       "lg",
                       "python",
@@ -750,11 +750,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T18:45:48Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-15T19:20:32Z",
+            "open_issues": 30,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 360,
+            "stars": 369,
             "topics": [
               "cast",
               "gnome",
@@ -985,7 +985,7 @@
             "open_issues": 3,
             "owner": "vitalets",
             "repo": "docker-tizen-webos-sdk",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:42.604Z"
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:16:29.304Z",
+    "last_updated": "2026-09-15T19:39:05.003Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1007,7 +1007,7 @@
       "open_issues": 4,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1416,
+      "stars": 1417,
       "topics": [
         "android-tv",
         "apple-tv",
