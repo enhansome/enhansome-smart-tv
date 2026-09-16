@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-13T18:48:03Z",
-                    "open_issues": 105,
+                    "open_issues": 107,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2133,
+                    "stars": 2140,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -361,7 +361,7 @@
                     "open_issues": 123,
                     "owner": "ConnectSDK",
                     "repo": "Connect-SDK-Android",
-                    "stars": 327,
+                    "stars": 328,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -750,11 +750,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T19:20:32Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-16T16:44:44Z",
+            "open_issues": 32,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 369,
+            "stars": 382,
             "topics": [
               "cast",
               "gnome",
@@ -985,7 +985,7 @@
             "open_issues": 3,
             "owner": "vitalets",
             "repo": "docker-tizen-webos-sdk",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:42.604Z"
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:39:05.003Z",
+    "last_updated": "2026-09-16T19:30:31.352Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
