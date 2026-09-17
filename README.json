@@ -68,8 +68,8 @@
                     "id": 127148270,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T22:00:26Z",
-                    "open_issues": 85,
+                    "last_commit": "2026-09-17T07:48:11Z",
+                    "open_issues": 76,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 677,
@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-13T18:48:03Z",
-                    "open_issues": 107,
+                    "open_issues": 109,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2140,
+                    "stars": 2144,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -285,7 +285,7 @@
                     "open_issues": 7,
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
-                    "stars": 14,
+                    "stars": 13,
                     "topics": [
                       "dlna",
                       "electron",
@@ -389,7 +389,7 @@
                     "open_issues": 5,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 704,
+                    "stars": 703,
                     "topics": [
                       "homebridge",
                       "homekit",
@@ -750,11 +750,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T16:44:44Z",
+            "last_commit": "2026-09-16T22:16:07Z",
             "open_issues": 32,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 382,
+            "stars": 389,
             "topics": [
               "cast",
               "gnome",
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:30:31.352Z",
+    "last_updated": "2026-09-17T19:41:17.329Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1007,7 +1007,7 @@
       "open_issues": 4,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1417,
+      "stars": 1418,
       "topics": [
         "android-tv",
         "apple-tv",
