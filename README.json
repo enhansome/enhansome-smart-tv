@@ -68,8 +68,8 @@
                     "id": 127148270,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T07:48:11Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-09-22T13:06:36Z",
+                    "open_issues": 77,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 677,
@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-13T18:48:03Z",
-                    "open_issues": 116,
+                    "open_issues": 117,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2153,
+                    "stars": 2156,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1605,
+                    "stars": 1607,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -330,6 +330,36 @@
                     ]
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Invidious Tizen",
+                  "description": "An Invidious client for Samsung Tizen TVs via TizenBrew, with D-pad navigation and full remote-control support (TypeScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "TizenBrew module that makes Invidious usable with a Samsung TV remote — D-pad navigation, YouTube-TV-style player controls, and an instance picker.",
+                    "homepage": null,
+                    "id": 1364527080,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-09-11T11:01:14Z",
+                    "open_issues": 0,
+                    "owner": "lennartschoch",
+                    "repo": "invidious-tizen",
+                    "stars": 0,
+                    "topics": [
+                      "invidious",
+                      "remote-control",
+                      "samsung-tv",
+                      "smart-tv",
+                      "tizen",
+                      "tizen-tv",
+                      "tizenbrew",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-09-22T19:42:04.249Z"
                 }
               ],
               "description": null,
@@ -750,8 +780,8 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T18:15:04Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-22T18:27:55Z",
+            "open_issues": 33,
             "owner": "IlyaP358",
             "repo": "fluxcast",
             "stars": 390,
@@ -995,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:23:42.336Z",
+    "last_updated": "2026-09-22T19:42:04.249Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1003,8 +1033,8 @@
       "id": 70810952,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-26T17:56:30Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-22T16:58:18Z",
+      "open_issues": 3,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
       "stars": 1422,
@@ -1021,7 +1051,7 @@
         "webos-tv"
       ]
     },
-    "original_repository_sha": "4a12d38c5cba1a1672278288a7b7033a03761f86",
+    "original_repository_sha": "6a1b661e5f70262de11912923642e2c91ffdd7dc",
     "enhanced_repository": "enhansome/enhansome-smart-tv",
     "enhanced_repository_description": null,
     "title": "Awesome Smart TV with stars"
