@@ -233,7 +233,7 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-13T18:48:03Z",
-                    "open_issues": 117,
+                    "open_issues": 118,
                     "owner": "reisxd",
                     "repo": "TizenTube",
                     "stars": 2156,
@@ -784,7 +784,7 @@
             "open_issues": 33,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 390,
+            "stars": 392,
             "topics": [
               "cast",
               "gnome",
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:42:04.249Z",
+    "last_updated": "2026-09-23T19:38:19.412Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
