@@ -52,8 +52,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,166 | 🐛 103 | 🌐 JavaScript | 📅 2026-09-25) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,612 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,167 | 🐛 107 | 🌐 JavaScript | 📅 2026-09-25) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,611 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 13 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Invidious Tizen](https://github.com/lennartschoch/invidious-tizen) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-11 - An Invidious client for Samsung Tizen TVs via TizenBrew, with D-pad navigation and full remote-control support (TypeScript).
@@ -134,7 +134,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Cross-platform tools
 
-* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 410 | 🐛 34 | 🌐 Python | 📅 2026-09-22 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
+* [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 412 | 🐛 39 | 🌐 Python | 📅 2026-09-26 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
 * [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-08-16 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## Navigation libraries
@@ -172,4 +172,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
