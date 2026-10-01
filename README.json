@@ -236,7 +236,7 @@
                     "open_issues": 112,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2189,
+                    "stars": 2194,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1614,
+                    "stars": 1616,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -780,11 +780,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T17:13:03Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-01T20:11:34Z",
+            "open_issues": 36,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 424,
+            "stars": 425,
             "topics": [
               "cast",
               "gnome",
@@ -816,8 +816,8 @@
             "id": 1199818138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-16T16:27:13Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-01T12:15:48Z",
+            "open_issues": 0,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
             "stars": 48,
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:45:24.645Z",
+    "last_updated": "2026-10-01T20:58:20.060Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
