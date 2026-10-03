@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for building Smart TV apps
 
-[<img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/>](https://github.com/vitalets/awesome-smart-tv) ⭐ 1,427 | 🐛 3 | 📅 2026-09-22
+[<img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/>](https://github.com/vitalets/awesome-smart-tv)
 
 [Smart TV](https://en.wikipedia.org/wiki/Smart_TV) is a growing platform of TVs having access to the internet and allowing to browse web-sites and install applications. It has own ecosystem with main players like Samsung, LG, Android TV and Apple TV. In this list you will find official and third-party resources for developing Smart TV apps and communicating with TV from remote devices.
 
@@ -52,7 +52,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,194 | 🐛 113 | 🌐 JavaScript | 📅 2026-09-25) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 2,196 | 🐛 113 | 🌐 JavaScript | 📅 2026-09-25) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 * \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,618 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-18) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 14 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
@@ -72,7 +72,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 * [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 705 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-11 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,502 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-30 which allows you to control your webOS TV.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) ⭐ 657 | 🐛 27 | 🌐 Python | 📅 2026-06-04 - Command line tool for webOS remote control of LG TVs (Python).
-* [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 352 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
+* [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 352 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-05 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 * [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 315 | 🐛 20 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) ⭐ 114 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-10 - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 * [pylgtv](https://github.com/TheRealLink/pylgtv) ⚠️ Archived - Library to control webOS based LG Tv devices (Python).
@@ -117,7 +117,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 ## Cross-platform frameworks
 
 * [react-tv](https://github.com/raphamorim/react-tv) ⚠️ Archived - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
-* [Smartbox](https://github.com/immosmart/smartbox) ⭐ 246 | 🐛 36 | 🌐 JavaScript | 📅 2019-01-31 - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
+* [Smartbox](https://github.com/immosmart/smartbox) ⭐ 247 | 🐛 36 | 🌐 JavaScript | 📅 2019-01-31 - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
 * [ZombieBox](https://github.com/interfaced/zombiebox) ⭐ 113 | 🐛 10 | 🌐 JavaScript | 📅 2025-09-07 - An open source Smart TV framework. Strongly typed JavaScript, component based, built-in D-PAD navigation management, abstract video API with DRM for all platforms. Supports many platforms like Tizen, webOS, Android TV, etc.
 * [Mautilus Smart TV SDK](https://github.com/mautilus/sdk) ⭐ 102 | 🐛 13 | 🌐 JavaScript | 📅 2017-05-29 - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.
 * [PureQML TV](https://github.com/pureqml/qmlcore-tv) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-22 - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
@@ -163,7 +163,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Contribute
 
-Feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-smart-tv/issues) ⭐ 1,427 | 🐛 3 | 📅 2026-09-22 or [pull request](https://github.com/vitalets/awesome-smart-tv/pulls) ⭐ 1,427 | 🐛 3 | 📅 2026-09-22.
+Feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-smart-tv/issues) or [pull request](https://github.com/vitalets/awesome-smart-tv/pulls).
 Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ## License
@@ -172,4 +172,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

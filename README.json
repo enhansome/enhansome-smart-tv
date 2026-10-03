@@ -236,7 +236,7 @@
                     "open_issues": 113,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2194,
+                    "stars": 2196,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -472,7 +472,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-05T17:25:55Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "hobbyquaker",
                     "repo": "lgtv2",
                     "stars": 352,
@@ -679,7 +679,7 @@
             "open_issues": 36,
             "owner": "immosmart",
             "repo": "smartbox",
-            "stars": 246,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:42.604Z"
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:38:02.903Z",
+    "last_updated": "2026-10-03T05:06:37.832Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
