@@ -68,11 +68,11 @@
                     "id": 127148270,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-04T08:27:31Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-10-05T10:08:45Z",
+                    "open_issues": 77,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 677,
+                    "stars": 676,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-25T18:01:42Z",
-                    "open_issues": 114,
+                    "open_issues": 115,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2201,
+                    "stars": 2203,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1620,
+                    "stars": 1622,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -391,7 +391,7 @@
                     "open_issues": 123,
                     "owner": "ConnectSDK",
                     "repo": "Connect-SDK-Android",
-                    "stars": 328,
+                    "stars": 329,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -419,7 +419,7 @@
                     "open_issues": 6,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 705,
+                    "stars": 706,
                     "topics": [
                       "homebridge",
                       "homekit",
@@ -442,11 +442,11 @@
                     "id": 91228157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-06-04T13:46:35Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-04T21:08:15Z",
+                    "open_issues": 24,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": [
                       "lg",
                       "python",
@@ -780,11 +780,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T21:36:45Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-05T22:03:24Z",
+            "open_issues": 36,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 430,
+            "stars": 433,
             "topics": [
               "cast",
               "gnome",
@@ -817,7 +817,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T00:56:02Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
             "stars": 48,
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:31:11.237Z",
+    "last_updated": "2026-10-05T22:31:27.125Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
