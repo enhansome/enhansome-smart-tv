@@ -236,7 +236,7 @@
                     "open_issues": 116,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2205,
+                    "stars": 2210,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -503,7 +503,7 @@
                     "open_issues": 20,
                     "owner": "supersaiyanmode",
                     "repo": "PyWebOSTV",
-                    "stars": 315,
+                    "stars": 316,
                     "topics": [
                       "lg",
                       "remote-control",
@@ -575,7 +575,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-05T17:31:19Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "hobbyquaker",
                     "repo": "node-red-contrib-lgtv",
                     "stars": 60,
@@ -780,11 +780,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T22:03:24Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-07T17:28:05Z",
+            "open_issues": 36,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 433,
+            "stars": 434,
             "topics": [
               "cast",
               "gnome",
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:54:21.210Z",
+    "last_updated": "2026-10-07T21:12:27.874Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
