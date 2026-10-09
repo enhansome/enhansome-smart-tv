@@ -68,7 +68,7 @@
                     "id": 127148270,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T17:52:06Z",
+                    "last_commit": "2026-10-09T18:49:47Z",
                     "open_issues": 77,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
@@ -236,7 +236,7 @@
                     "open_issues": 116,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2218,
+                    "stars": 2221,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -343,7 +343,7 @@
                     "id": 1364527080,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T20:26:18Z",
+                    "last_commit": "2026-10-09T05:37:53Z",
                     "open_issues": 0,
                     "owner": "lennartschoch",
                     "repo": "invidious-tizen",
@@ -784,7 +784,7 @@
             "open_issues": 36,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "cast",
               "gnome",
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:14:53.568Z",
+    "last_updated": "2026-10-09T20:46:16.089Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1037,7 +1037,7 @@
       "open_issues": 3,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1431,
+      "stars": 1433,
       "topics": [
         "android-tv",
         "apple-tv",
