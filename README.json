@@ -68,7 +68,7 @@
                     "id": 127148270,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T18:49:47Z",
+                    "last_commit": "2026-10-10T19:07:45Z",
                     "open_issues": 77,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-25T18:01:42Z",
-                    "open_issues": 116,
+                    "open_issues": 115,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2221,
+                    "stars": 2227,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1624,
+                    "stars": 1626,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -780,11 +780,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T19:59:44Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-09T20:46:21Z",
+            "open_issues": 34,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 435,
+            "stars": 437,
             "topics": [
               "cast",
               "gnome",
@@ -820,7 +820,7 @@
             "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "ai-agent",
               "android-tv",
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:46:16.089Z",
+    "last_updated": "2026-10-10T19:59:22.932Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
