@@ -66,10 +66,10 @@
                     "description": "Homebridge plugin for Samsung TV's with Tizen OS",
                     "homepage": null,
                     "id": 127148270,
-                    "language": "JavaScript",
+                    "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T19:07:45Z",
-                    "open_issues": 77,
+                    "last_commit": "2026-10-12T09:58:16Z",
+                    "open_issues": 1,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 677,
@@ -233,10 +233,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-25T18:01:42Z",
-                    "open_issues": 113,
+                    "open_issues": 116,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2236,
+                    "stars": 2243,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +264,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1629,
+                    "stars": 1630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -575,7 +575,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-08T12:51:16Z",
-                    "open_issues": 2,
+                    "open_issues": 4,
                     "owner": "hobbyquaker",
                     "repo": "node-red-contrib-lgtv",
                     "stars": 60,
@@ -780,11 +780,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T17:36:20Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-11T20:43:52Z",
+            "open_issues": 35,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 439,
+            "stars": 442,
             "topics": [
               "cast",
               "gnome",
@@ -1025,7 +1025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:10:12.371Z",
+    "last_updated": "2026-10-12T22:51:56.941Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
