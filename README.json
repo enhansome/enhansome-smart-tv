@@ -63,19 +63,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Homebridge plugin for Samsung TV's with Tizen OS",
-                    "homepage": null,
+                    "description": "Homebridge plugin for Samsung TV's (2017 and later)",
+                    "homepage": "https://tavicu.github.io/homebridge-samsung-tizen/",
                     "id": 127148270,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T13:20:10Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-16T19:02:32Z",
+                    "open_issues": 1,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
+                      "homekit",
                       "samsung",
                       "tizen"
                     ]
@@ -232,11 +233,11 @@
                     "id": 666132902,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T18:01:42Z",
-                    "open_issues": 119,
+                    "last_commit": "2026-10-16T17:43:55Z",
+                    "open_issues": 97,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2258,
+                    "stars": 2261,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -264,7 +265,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1631,
+                    "stars": 1633,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -285,7 +286,7 @@
                     "open_issues": 7,
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
-                    "stars": 14,
+                    "stars": 13,
                     "topics": [
                       "dlna",
                       "electron",
@@ -1025,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:49:31.795Z",
+    "last_updated": "2026-10-16T19:30:34.430Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
