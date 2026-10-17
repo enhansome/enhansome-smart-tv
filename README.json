@@ -233,11 +233,11 @@
                     "id": 666132902,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-16T17:43:55Z",
-                    "open_issues": 97,
+                    "last_commit": "2026-10-16T21:15:34Z",
+                    "open_issues": 100,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2261,
+                    "stars": 2263,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1633,
+                    "stars": 1635,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -781,11 +781,11 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T18:40:06Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-17T16:20:46Z",
+            "open_issues": 32,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 445,
+            "stars": 446,
             "topics": [
               "cast",
               "gnome",
@@ -864,7 +864,7 @@
             "open_issues": 39,
             "owner": "luke-chang",
             "repo": "js-spatial-navigation",
-            "stars": 430,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:42.604Z"
@@ -1026,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:30:34.430Z",
+    "last_updated": "2026-10-17T18:23:31.486Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1038,7 +1038,7 @@
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1435,
+      "stars": 1434,
       "topics": [
         "android-tv",
         "apple-tv",
