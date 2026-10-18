@@ -72,7 +72,7 @@
                     "open_issues": 1,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 678,
+                    "stars": 677,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
@@ -223,8 +223,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[TizenTube] (https://github.com/reisxd/TizenTube",
-                  "description": ") - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.",
+                  "title": "TizenTube",
+                  "description": "A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 100,
+                    "open_issues": 102,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2263,
+                    "stars": 2268,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -251,8 +251,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "[TizenBrew] (https://github.com/reisxd/TizenBrew",
-                  "description": ") - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio",
+                  "title": "TizenBrew",
+                  "description": "A way to experience modded websites and you can install newer apps without fighting with Tizen Studio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -265,7 +265,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1635,
+                    "stars": 1638,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -447,7 +447,7 @@
                     "open_issues": 24,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 660,
+                    "stars": 662,
                     "topics": [
                       "lg",
                       "python",
@@ -611,6 +611,52 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "go-webos",
+                  "description": "A small Go library for interaction with webOS TVs (golang).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A small Go webOS library",
+                    "homepage": "https://godoc.org/github.com/kaperys/go-webos",
+                    "id": 142150408,
+                    "language": "Go",
+                    "license": "MIT",
+                    "last_commit": "2020-05-01T05:04:42Z",
+                    "open_issues": 1,
+                    "owner": "kaperys",
+                    "repo": "go-webos",
+                    "stars": 14,
+                    "topics": [
+                      "go",
+                      "iot",
+                      "webos"
+                    ]
+                  },
+                  "first_seen": "2026-10-18T18:34:19.857Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ares-webos-sdk",
+                  "description": "webOS CLI as separate NPM module (JavaScript).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 298655767,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2020-09-25T18:57:50Z",
+                    "open_issues": 1,
+                    "owner": "enyojs",
+                    "repo": "ares-webos-sdk",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-18T18:34:19.857Z"
                 }
               ],
               "description": null,
@@ -782,10 +828,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-17T16:20:46Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "cast",
               "gnome",
@@ -1026,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:23:31.486Z",
+    "last_updated": "2026-10-18T18:34:19.857Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1034,11 +1080,11 @@
       "id": 70810952,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-22T16:58:18Z",
+      "last_commit": "2026-10-18T10:53:41Z",
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1434,
+      "stars": 1436,
       "topics": [
         "android-tv",
         "apple-tv",
@@ -1052,7 +1098,7 @@
         "webos-tv"
       ]
     },
-    "original_repository_sha": "6a1b661e5f70262de11912923642e2c91ffdd7dc",
+    "original_repository_sha": "fb328f974b06dee53f9fba02154c1c2c879c5288",
     "enhanced_repository": "enhansome/enhansome-smart-tv",
     "enhanced_repository_description": null,
     "title": "Awesome Smart TV with stars"
