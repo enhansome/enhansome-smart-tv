@@ -72,7 +72,7 @@
                     "open_issues": 1,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
@@ -237,7 +237,7 @@
                     "open_issues": 102,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2268,
+                    "stars": 2284,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 16,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1638,
+                    "stars": 1644,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -286,7 +286,7 @@
                     "open_issues": 7,
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "dlna",
                       "electron",
@@ -420,7 +420,7 @@
                     "open_issues": 6,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 706,
+                    "stars": 707,
                     "topics": [
                       "homebridge",
                       "homekit",
@@ -476,7 +476,7 @@
                     "open_issues": 2,
                     "owner": "hobbyquaker",
                     "repo": "lgtv2",
-                    "stars": 351,
+                    "stars": 352,
                     "topics": [
                       "lg",
                       "node-module",
@@ -504,7 +504,7 @@
                     "open_issues": 20,
                     "owner": "supersaiyanmode",
                     "repo": "PyWebOSTV",
-                    "stars": 316,
+                    "stars": 317,
                     "topics": [
                       "lg",
                       "remote-control",
@@ -867,7 +867,7 @@
             "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "ai-agent",
               "android-tv",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:34:19.857Z",
+    "last_updated": "2026-10-19T20:59:19.232Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
