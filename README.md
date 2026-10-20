@@ -30,7 +30,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Official resources
 
-* [Wits](https://github.com/Samsung/Wits) ⭐ 123 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-12 - A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.
+* [Wits](https://github.com/Samsung/Wits) ⭐ 124 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-12 - A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.
 * [Samsung TV Developers site](http://developer.samsung.com/tv) - News, documentation and SDK downloads.
 * [Tizen TV Developers site](https://developer.tizen.org/tizen/tv) - Full API documentation and guides for developing Tizen TV apps.
 * [Tizen Studio](https://developer.tizen.org/development/tizen-studio/download) - IDE for TV apps development including Tizen TV Emulator.
@@ -42,18 +42,18 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 #### Third-party remote control libraries
 
 * [samsungctl](https://github.com/Ape/samsungctl) ⚠️ Archived - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
-* [homebridge-samsung-tizen](https://github.com/tavicu/homebridge-samsung-tizen) ⭐ 678 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-16 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,521 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-18 that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
+* [homebridge-samsung-tizen](https://github.com/tavicu/homebridge-samsung-tizen) ⭐ 679 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-16 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,521 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-18 that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
 * [samsung-tv-control](https://github.com/Toxblh/samsung-tv-control) ⭐ 197 | 🐛 21 | 🌐 TypeScript | 📅 2023-12-23 - Library for remote control Samsung TV in your Node.js
 * [samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
-* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-14 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,521 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-18 that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
+* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-14 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,521 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-18 that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
 * [samsung-messagebox](https://github.com/shantanugoel/samsung-messagebox) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2014-06-05 - Python script to show notifications on Samsung TVs.
 * [samsung-remote-models-2014-and-newer](https://github.com/tdudek/samsung-remote-models-2014-and-newer) ⭐ 48 | 🐛 27 | 🌐 JavaScript | 📅 2022-06-25 - Encrypted communication with the internal web service of Samsung TV models 2014+.
 * [SmartCrypto](https://github.com/sectroyer/SmartCrypto) ⭐ 12 | 🐛 4 | 🌐 C | 📅 2022-08-18 - SmartView2 encrypted handshake API implementation in C/Python.
 
 #### Other
 
-* [TizenTube](https://github.com/reisxd/TizenTube) ⭐ 2,284 | 🐛 102 | 🌐 JavaScript | 📅 2026-10-16 - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* [TizenBrew](https://github.com/reisxd/TizenBrew) ⭐ 1,644 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-18 - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* [TizenTube](https://github.com/reisxd/TizenTube) ⭐ 2,297 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-16 - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* [TizenBrew](https://github.com/reisxd/TizenBrew) ⭐ 1,654 | 🐛 17 | 🌐 JavaScript | 📅 2026-05-18 - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) ⭐ 14 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Invidious Tizen](https://github.com/lennartschoch/invidious-tizen) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - An Invidious client for Samsung Tizen TVs via TizenBrew, with D-pad navigation and full remote-control support (TypeScript).
@@ -70,7 +70,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Third-party remote control libraries
 
-* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 707 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-11 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,521 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-18 which allows you to control your webOS TV.
+* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 707 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-11 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,521 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-18 which allows you to control your webOS TV.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) ⭐ 662 | 🐛 24 | 🌐 Python | 📅 2026-10-04 - Command line tool for webOS remote control of LG TVs (Python).
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 352 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 * [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 317 | 🐛 20 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
@@ -135,7 +135,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 ## Cross-platform tools
 
 * [Fluxcast](https://github.com/IlyaP358/fluxcast) ⭐ 447 | 🐛 34 | 🌐 Python | 📅 2026-10-17 - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
-* [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
+* [smartest-tv](https://github.com/Hybirdss/smartest-tv) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## Navigation libraries
 
@@ -147,8 +147,9 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Testing
 
-* [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 * [stb-tester](https://github.com/stb-tester/stb-tester) ⭐ 194 | 🐛 30 | 🌐 Python | 📅 2026-07-25 - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
+* [Optics](https://github.com/mozarkai/optics-framework) ⭐ 60 | 🐛 78 | 🌐 Python | 📅 2026-10-20 - Test automation for Android TV, Samsung Tizen and LG webOS apps through Appium, with tests written as CSV or YAML steps that press remote-control keys and check the screen by text, OCR or image. Also runs on Android, iOS and web (python).
+* [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 
 ## Misc
 
@@ -172,4 +173,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

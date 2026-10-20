@@ -23,7 +23,7 @@
                     "open_issues": 15,
                     "owner": "Samsung",
                     "repo": "Wits",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -72,7 +72,7 @@
                     "open_issues": 1,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 678,
+                    "stars": 679,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 102,
+                    "open_issues": 105,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2284,
+                    "stars": 2297,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -262,10 +262,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-18T14:06:16Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1644,
+                    "stars": 1654,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -867,7 +867,7 @@
             "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "ai-agent",
               "android-tv",
@@ -1024,6 +1024,96 @@
       "items": [
         {
           "node_type": "item",
+          "title": "stb-tester",
+          "description": "Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automated Testing for Set-Top Boxes and Smart TVs",
+            "homepage": "https://stb-tester.com",
+            "id": 4739298,
+            "language": "Python",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-07-25T08:00:38Z",
+            "open_issues": 30,
+            "owner": "stb-tester",
+            "repo": "stb-tester",
+            "stars": 194,
+            "topics": [
+              "computer-vision",
+              "gstreamer",
+              "hdmi",
+              "hdmi-cec",
+              "lirc",
+              "numpy",
+              "ocr",
+              "opencv",
+              "page-object",
+              "power-control",
+              "pylint",
+              "python",
+              "remote-control",
+              "set-top-box",
+              "template-matching",
+              "test-automation",
+              "test-framework",
+              "testing",
+              "video",
+              "video-processing"
+            ]
+          },
+          "first_seen": "2026-10-20T19:57:28.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Optics",
+          "description": "Test automation for Android TV, Samsung Tizen and LG webOS apps through Appium, with tests written as CSV or YAML steps that press remote-control keys and check the screen by text, OCR or image. Also runs on Android, iOS and web (python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source test automation for Android, iOS, web, smart TV (Android TV, Tizen, webOS) and Bluetooth (BLE) devices. Write tests as CSV/YAML, record them live, or let an AI agent build them over MCP. Self-healing locators: XPath, text, OCR, image.",
+            "homepage": "https://optics-framework.org",
+            "id": 957803471,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-20T02:28:49Z",
+            "open_issues": 78,
+            "owner": "mozarkai",
+            "repo": "optics-framework",
+            "stars": 60,
+            "topics": [
+              "android",
+              "android-tv",
+              "app-testing",
+              "appium",
+              "ble",
+              "bluetooth",
+              "browser-testing",
+              "computer-vision",
+              "e2e-testing",
+              "ios",
+              "mcp-server",
+              "mobile-testing",
+              "playwright",
+              "robotframework",
+              "selenium",
+              "self-healing-tests",
+              "smart-tv",
+              "test-automation",
+              "tizen",
+              "webos"
+            ]
+          },
+          "first_seen": "2026-10-20T19:57:28.381Z"
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "awesome-smarttv",
           "description": "Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:.",
           "children": [],
@@ -1072,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:59:19.232Z",
+    "last_updated": "2026-10-20T19:57:28.381Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1080,11 +1170,11 @@
       "id": 70810952,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-18T10:53:41Z",
+      "last_commit": "2026-10-20T06:47:50Z",
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1436,
+      "stars": 1438,
       "topics": [
         "android-tv",
         "apple-tv",
@@ -1098,7 +1188,7 @@
         "webos-tv"
       ]
     },
-    "original_repository_sha": "fb328f974b06dee53f9fba02154c1c2c879c5288",
+    "original_repository_sha": "c940e1892b468c67b65d9f0b85e0da4a64079610",
     "enhanced_repository": "enhansome/enhansome-smart-tv",
     "enhanced_repository_description": null,
     "title": "Awesome Smart TV with stars"
