@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 105,
+                    "open_issues": 111,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2297,
+                    "stars": 2323,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 17,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1654,
+                    "stars": 1656,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -827,7 +827,7 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T16:20:46Z",
+            "last_commit": "2026-10-20T21:29:23Z",
             "open_issues": 34,
             "owner": "IlyaP358",
             "repo": "fluxcast",
@@ -867,7 +867,7 @@
             "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "ai-agent",
               "android-tv",
@@ -1076,11 +1076,11 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T02:28:49Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-21T02:47:59Z",
+            "open_issues": 81,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 60,
+            "stars": 62,
             "topics": [
               "android",
               "android-tv",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:57:28.381Z",
+    "last_updated": "2026-10-21T20:03:04.422Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1174,7 +1174,7 @@
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1438,
+      "stars": 1441,
       "topics": [
         "android-tv",
         "apple-tv",
