@@ -51,7 +51,7 @@
                     "open_issues": 64,
                     "owner": "Ape",
                     "repo": "samsungctl",
-                    "stars": 741,
+                    "stars": 738,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -69,10 +69,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-16T19:02:32Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 679,
+                    "stars": 678,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
@@ -99,7 +99,7 @@
                     "open_issues": 21,
                     "owner": "Toxblh",
                     "repo": "samsung-tv-control",
-                    "stars": 197,
+                    "stars": 196,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -116,7 +116,7 @@
                     "id": 89575385,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T07:26:35Z",
+                    "last_commit": "2026-10-23T14:56:10Z",
                     "open_issues": 0,
                     "owner": "Badisi",
                     "repo": "samsung-tv-remote",
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 113,
+                    "open_issues": 116,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2331,
+                    "stars": 2342,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 17,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1663,
+                    "stars": 1667,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -831,7 +831,7 @@
             "open_issues": 32,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 448,
+            "stars": 449,
             "topics": [
               "cast",
               "gnome",
@@ -867,7 +867,7 @@
             "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "ai-agent",
               "android-tv",
@@ -1076,8 +1076,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T14:23:19Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-23T19:16:47Z",
+            "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 63,
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:57:28.337Z",
+    "last_updated": "2026-10-23T19:54:28.925Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1174,7 +1174,7 @@
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1442,
+      "stars": 1443,
       "topics": [
         "android-tv",
         "apple-tv",
