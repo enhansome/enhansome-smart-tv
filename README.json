@@ -69,7 +69,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-16T19:02:32Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 678,
@@ -188,7 +188,7 @@
                     "open_issues": 27,
                     "owner": "tdudek",
                     "repo": "samsung-remote-models-2014-and-newer",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 116,
+                    "open_issues": 119,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2342,
+                    "stars": 2348,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -262,10 +262,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-18T14:06:16Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1667,
+                    "stars": 1674,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -1034,8 +1034,8 @@
             "id": 4739298,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-07-25T08:00:38Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-24T16:03:14Z",
+            "open_issues": 31,
             "owner": "stb-tester",
             "repo": "stb-tester",
             "stars": 195,
@@ -1076,7 +1076,7 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T19:16:47Z",
+            "last_commit": "2026-10-23T20:32:51Z",
             "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:54:28.925Z",
+    "last_updated": "2026-10-24T18:43:29.832Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1174,7 +1174,7 @@
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1443,
+      "stars": 1444,
       "topics": [
         "android-tv",
         "apple-tv",
