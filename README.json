@@ -68,11 +68,11 @@
                     "id": 127148270,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T16:01:18Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-26T08:41:28Z",
+                    "open_issues": 0,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
-                    "stars": 678,
+                    "stars": 679,
                     "topics": [
                       "homebridge",
                       "homebridge-plugin",
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 121,
+                    "open_issues": 123,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2361,
+                    "stars": 2378,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 18,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1677,
+                    "stars": 1683,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -286,7 +286,7 @@
                     "open_issues": 7,
                     "owner": "TAGISWILD",
                     "repo": "beam-tv",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": [
                       "dlna",
                       "electron",
@@ -831,7 +831,7 @@
             "open_issues": 32,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "cast",
               "gnome",
@@ -1076,8 +1076,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T12:36:27Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-26T19:45:11Z",
+            "open_issues": 81,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 63,
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:53:50.350Z",
+    "last_updated": "2026-10-26T20:58:31.091Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1174,7 +1174,7 @@
       "open_issues": 2,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1448,
+      "stars": 1450,
       "topics": [
         "android-tv",
         "apple-tv",
