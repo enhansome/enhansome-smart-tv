@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 126,
+                    "open_issues": 128,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2398,
+                    "stars": 2408,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 19,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1692,
+                    "stars": 1693,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -653,7 +653,7 @@
                     "open_issues": 1,
                     "owner": "enyojs",
                     "repo": "ares-webos-sdk",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-10-18T18:34:19.857Z"
@@ -828,10 +828,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-28T21:20:59Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "cast",
               "gnome",
@@ -1076,8 +1076,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T07:10:57Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-30T10:08:12Z",
+            "open_issues": 77,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 64,
@@ -1128,7 +1128,7 @@
             "open_issues": 0,
             "owner": "linuxenko",
             "repo": "awesome-smarttv",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "awesome-list",
               "smart-tv"
@@ -1152,7 +1152,7 @@
             "open_issues": 3,
             "owner": "vitalets",
             "repo": "docker-tizen-webos-sdk",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:42.604Z"
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:59:35.036Z",
+    "last_updated": "2026-10-30T20:40:08.868Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
