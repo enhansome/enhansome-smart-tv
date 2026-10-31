@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 128,
+                    "open_issues": 129,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2408,
+                    "stars": 2423,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 19,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1693,
+                    "stars": 1699,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -420,7 +420,7 @@
                     "open_issues": 6,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 713,
+                    "stars": 712,
                     "topics": [
                       "homebridge",
                       "homekit",
@@ -447,7 +447,7 @@
                     "open_issues": 24,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 664,
+                    "stars": 665,
                     "topics": [
                       "lg",
                       "python",
@@ -690,7 +690,7 @@
             "open_issues": 31,
             "owner": "raphamorim",
             "repo": "react-tv",
-            "stars": 2035,
+            "stars": 2036,
             "topics": [
               "lg-webos",
               "orsay",
@@ -827,7 +827,7 @@
             "id": 1226871398,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T21:20:59Z",
+            "last_commit": "2026-10-30T22:19:12Z",
             "open_issues": 35,
             "owner": "IlyaP358",
             "repo": "fluxcast",
@@ -1076,8 +1076,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T10:08:12Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-31T05:55:45Z",
+            "open_issues": 78,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 64,
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:40:08.868Z",
+    "last_updated": "2026-10-31T19:52:29.411Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
