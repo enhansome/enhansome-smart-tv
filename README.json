@@ -237,7 +237,7 @@
                     "open_issues": 131,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2435,
+                    "stars": 2444,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 21,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1709,
+                    "stars": 1713,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -392,7 +392,7 @@
                     "open_issues": 123,
                     "owner": "ConnectSDK",
                     "repo": "Connect-SDK-Android",
-                    "stars": 328,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -447,7 +447,7 @@
                     "open_issues": 24,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 665,
+                    "stars": 666,
                     "topics": [
                       "lg",
                       "python",
@@ -831,7 +831,7 @@
             "open_issues": 35,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 456,
+            "stars": 458,
             "topics": [
               "cast",
               "gnome",
@@ -1076,8 +1076,8 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T10:47:07Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-03T05:40:55Z",
+            "open_issues": 82,
             "owner": "mozarkai",
             "repo": "optics-framework",
             "stars": 65,
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:24:59.858Z",
+    "last_updated": "2026-11-03T21:40:33.370Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
