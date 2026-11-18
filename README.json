@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 134,
+                    "open_issues": 137,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2550,
+                    "stars": 2557,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -386,7 +386,7 @@
                     "id": 73726309,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T10:21:07Z",
+                    "last_commit": "2026-11-18T22:31:34Z",
                     "open_issues": 5,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
@@ -801,7 +801,7 @@
             "open_issues": 37,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 500,
+            "stars": 503,
             "topics": [
               "cast",
               "gnome",
@@ -837,7 +837,7 @@
             "open_issues": 1,
             "owner": "Hybirdss",
             "repo": "smartest-tv",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "ai-agent",
               "android-tv",
@@ -1046,11 +1046,11 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T09:49:07Z",
+            "last_commit": "2026-11-18T21:33:32Z",
             "open_issues": 71,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "android",
               "android-tv",
@@ -1098,7 +1098,7 @@
             "open_issues": 3,
             "owner": "tolgakurtuluss",
             "repo": "awesome-webos",
-            "stars": 292,
+            "stars": 296,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:27:10.095Z",
+    "last_updated": "2026-11-18T22:54:32.955Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
