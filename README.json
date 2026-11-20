@@ -265,7 +265,7 @@
                     "open_issues": 19,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1751,
+                    "stars": 1753,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -798,10 +798,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T22:35:49Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "IlyaP358",
             "repo": "fluxcast",
-            "stars": 504,
+            "stars": 506,
             "topics": [
               "cast",
               "gnome",
@@ -1004,8 +1004,8 @@
             "id": 4739298,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-19T16:08:39Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-20T14:43:48Z",
+            "open_issues": 31,
             "owner": "stb-tester",
             "repo": "stb-tester",
             "stars": 196,
@@ -1046,7 +1046,7 @@
             "id": 957803471,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T09:14:13Z",
+            "last_commit": "2026-11-20T17:52:49Z",
             "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
@@ -1094,11 +1094,11 @@
             "id": 1430191134,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T14:10:51Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T13:03:28Z",
+            "open_issues": 2,
             "owner": "tolgakurtuluss",
             "repo": "awesome-webos",
-            "stars": 301,
+            "stars": 303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:59:33.150Z",
+    "last_updated": "2026-11-20T22:36:13.045Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1151,7 +1151,7 @@
       "open_issues": 5,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1477,
+      "stars": 1478,
       "topics": [
         "android-tv",
         "apple-tv",
