@@ -69,7 +69,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-11-16T20:10:20Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 684,
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 134,
+                    "open_issues": 136,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2560,
+                    "stars": 2567,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 19,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1753,
+                    "stars": 1754,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -390,7 +390,7 @@
                     "open_issues": 5,
                     "owner": "merdok",
                     "repo": "homebridge-webos-tv",
-                    "stars": 717,
+                    "stars": 718,
                     "topics": [
                       "homebridge",
                       "homekit",
@@ -417,7 +417,7 @@
                     "open_issues": 24,
                     "owner": "klattimer",
                     "repo": "LGWebOSRemote",
-                    "stars": 668,
+                    "stars": 670,
                     "topics": [
                       "lg",
                       "python",
@@ -443,7 +443,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-14T11:18:14Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "hobbyquaker",
                     "repo": "lgtv2",
                     "stars": 353,
@@ -1050,7 +1050,7 @@
             "open_issues": 75,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "android",
               "android-tv",
@@ -1098,7 +1098,7 @@
             "open_issues": 2,
             "owner": "tolgakurtuluss",
             "repo": "awesome-webos",
-            "stars": 303,
+            "stars": 309,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:36:13.045Z",
+    "last_updated": "2026-11-21T21:34:58.758Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
@@ -1151,7 +1151,7 @@
       "open_issues": 5,
       "owner": "vitalets",
       "repo": "awesome-smart-tv",
-      "stars": 1478,
+      "stars": 1479,
       "topics": [
         "android-tv",
         "apple-tv",
