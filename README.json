@@ -68,8 +68,8 @@
                     "id": 127148270,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-23T20:02:54Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-24T21:04:37Z",
+                    "open_issues": 4,
                     "owner": "tavicu",
                     "repo": "homebridge-samsung-tizen",
                     "stars": 684,
@@ -234,10 +234,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T21:15:34Z",
-                    "open_issues": 136,
+                    "open_issues": 138,
                     "owner": "reisxd",
                     "repo": "TizenTube",
-                    "stars": 2581,
+                    "stars": 2586,
                     "topics": [
                       "ad-blocker",
                       "tizen",
@@ -265,7 +265,7 @@
                     "open_issues": 19,
                     "owner": "reisxd",
                     "repo": "TizenBrew",
-                    "stars": 1754,
+                    "stars": 1756,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:42.604Z"
@@ -1004,7 +1004,7 @@
             "id": 4739298,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-20T14:43:48Z",
+            "last_commit": "2026-11-24T16:31:16Z",
             "open_issues": 31,
             "owner": "stb-tester",
             "repo": "stb-tester",
@@ -1095,10 +1095,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T13:03:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "tolgakurtuluss",
             "repo": "awesome-webos",
-            "stars": 312,
+            "stars": 318,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:51:27.064Z",
+    "last_updated": "2026-11-25T00:33:16.721Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:A curated list of awesome resources for building Smart TV apps",
